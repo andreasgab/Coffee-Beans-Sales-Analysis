@@ -14,6 +14,6 @@ Comparative Revenue Analysis (2019–2022): To compare and assess the annual rev
 
  The analysis was conducted by:
  
- Thanos Chronopoulos
- Andreas Gabriel
+ Thanos Chronopoulos,
+ Andreas Gabriel,
  Filippos Georgiopoulos
